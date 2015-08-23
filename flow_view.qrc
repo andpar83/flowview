@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/desktop.png</file>
+    <file>images/hub.png</file>
+    <file>images/lan.png</file>
+    <file>images/laptop.png</file>
+    <file>images/object.png</file>
+    <file>images/pc.png</file>
+    <file>images/phone.png</file>
+    <file>images/printer.png</file>
+    <file>images/socket.png</file>
+</qresource>
+</RCC>
